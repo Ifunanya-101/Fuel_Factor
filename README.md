@@ -5,7 +5,7 @@ The **Fuel Factor Python Project** is a simple project that investigates the nut
 The purpose of this survey is to explore the eating habits of college students and analyze their effects on daily student performance, particularly in terms of energy levels and nutritional goals. By identifying trends in the data collected, the project provides insights into the feeding habits of students at Fisk University. 
 
 
-## Features
+## Features/Functionality
 ### 1. Data Collection 
 I designed an interactive and user-friendly survey to collect data on various factors believed to influence overall nutritional health. These factors include:
  - Number of exercise sessions per week.
@@ -26,4 +26,9 @@ Using the `pandas` library, I analyzed the collected data to uncover patterns an
 ### 3. Data Visualization: 
 The trends observed during data analysis were visualized using the `matplotlib` library. Key visualizations include: 
 - **Bar Charts**: Representing trends such as exercise sessions vs. energy levels.
- - **Pie Charts**: Highlighting distributions of factors like fruit and vegetable consumption. 
+ - **Pie Charts**: Highlighting distributions of factors like fruit and vegetable consumption.
+
+### How to run the program
+You can run the program by downloading the fuel_factor.py file attached and running it on your python software.
+
+Thank you!
